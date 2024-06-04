@@ -4,7 +4,7 @@
     <tr align="center">
         <td style="min-width: 240px;">
             <a href="https://github.com/eunpyeong114">
-              <img src="https://github.com/eunpyeong114.png" width="100">
+              <img src="https://github.com/pyeong114.png" width="100">
               <br />
               <b>전은평</b>
             </a> 
